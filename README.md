@@ -1,2 +1,71 @@
-# EV-Sales-Analysis-Tableau
-Interactive Tableau dashboard analyzing Electric Vehicle sales and market trends.
+# EV Sales Analysis Dashboard
+
+## Project Overview
+
+This project is an interactive Tableau dashboard that analyzes Electric Vehicle (EV) sales trends, manufacturer performance, vehicle types, and geographic distribution using data visualization.
+
+---
+
+## Dashboard Preview
+
+![Dashboard](Screenshots/dashboard-overview.png)
+
+---
+
+## Key Features
+
+- EV Sales Trend Analysis
+- Manufacturer Performance
+- Vehicle Type Distribution
+- Geographic Analysis
+- Interactive Filters
+- KPI Dashboard
+
+---
+
+## Tools Used
+
+- Tableau Desktop
+- Data Visualization
+- Business Intelligence
+- Data Analysis
+
+---
+
+## Dataset
+
+The dataset contains information such as:
+
+- Model Year
+- Make
+- Model
+- Electric Vehicle Type
+- State
+- Electric Range
+- Base MSRP
+
+---
+
+## Screenshots
+
+### Dashboard Overview
+
+![Overview](Screenshots/dashboard-overview.png)
+
+### Manufacturer Analysis
+
+![Manufacturers](Screenshots/manufacturer-analysis.png)
+
+### Sales Trend
+
+![Sales Trend](Screenshots/sales-trend.png)
+
+### Vehicle Type
+
+![Vehicle Type](Screenshots/vehicle-type.png)
+
+---
+
+## Author
+
+Mufliha CH
