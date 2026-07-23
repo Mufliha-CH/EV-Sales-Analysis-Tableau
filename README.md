@@ -8,7 +8,7 @@ This project is an interactive Tableau dashboard that analyzes Electric Vehicle 
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard-overview.png)
+![Dashboard](EV-Sales-Analysis-Tableau/dashboard-overview.png.png)
 
 ---
 
@@ -46,23 +46,7 @@ The dataset contains information such as:
 
 ---
 
-## Screenshots
 
-### Dashboard Overview
-
-![Overview](Screenshots/dashboard-overview.png)
-
-### Manufacturer Analysis
-
-![Manufacturers](Screenshots/manufacturer-analysis.png)
-
-### Sales Trend
-
-![Sales Trend](Screenshots/sales-trend.png)
-
-### Vehicle Type
-
-![Vehicle Type](Screenshots/vehicle-type.png)
 
 ---
 
